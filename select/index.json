@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "花となれ",
+  "base_artist": "牛肉 ・ 雄之助 ・ 可不",
+  "createdAt": "2025-12-09T09:11:04.967604Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "花となれ",
+      "artist": "牛肉 ・ 雄之助 ・ 可不",
+      "has_synced": false,
+      "path": "select/pl_01_花となれ_牛肉_・_雄之助_・_可不.txt"
+    }
+  ]
+}
